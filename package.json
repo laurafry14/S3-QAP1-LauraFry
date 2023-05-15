@@ -1,0 +1,19 @@
+{
+  "name": "s3-qap1-laurafry",
+  "version": "1.0.0",
+  "description": "Semester 3 QAP 1 for Keyin's Software Development Program",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurafry14/S3-QAP1-LauraFry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurafry14/S3-QAP1-LauraFry/issues"
+  },
+  "homepage": "https://github.com/laurafry14/S3-QAP1-LauraFry#readme"
+}
