@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/laurafry14/S3-QAP1-LauraFry/issues"
   },
-  "homepage": "https://github.com/laurafry14/S3-QAP1-LauraFry#readme"
+  "homepage": "https://github.com/laurafry14/S3-QAP1-LauraFry#readme",
+  "dependencies": {
+    "validator": "^13.9.0"
+  }
 }

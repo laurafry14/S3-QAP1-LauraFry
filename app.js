@@ -4,4 +4,12 @@
 var msg = "Hello World!";
 console.log(msg);
 
-console.log("You have successfully used nodemon");
+// VALIDATOR
+
+var validator = require("validator");
+
+let name = "laura fry";
+console.log(validator.isLowercase(name)); // validates that the name string is lowercase and returns a boolean value
+
+let text = "";
+console.log(validator.isEmpty(text)); // validates whether the text string is empty or not
